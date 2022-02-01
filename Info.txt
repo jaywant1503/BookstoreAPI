@@ -1,0 +1,3 @@
+.net core package 6.0 needed
+visual studio 2022
+sql server 2016
